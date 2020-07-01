@@ -1,3 +1,16 @@
 {
-
+  "name": "atom-test",
+  "version": "0.0.0",
+  "description": "this is a test",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/draxaris1010/atom-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/draxaris1010/atom-test/issues"
+  }
 }
